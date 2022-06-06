@@ -1,0 +1,14 @@
+.container{
+  width: 100%;
+  text-align: center;
+}
+h1{
+  background-color: black;
+  color: #fff;
+  font-size: 60px;
+}
+.student-info{
+  background-color: #67aee9;
+  color: #fff;
+  font-size: 40px;
+}
